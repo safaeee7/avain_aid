@@ -4,7 +4,7 @@ import React from 'react';
 type IconProps = React.SVGProps<SVGSVGElement>;
 
 export const LogoIcon: React.FC<IconProps> = (props) => (
-  <img src= 'src\lesions\avian_icon.jpeg'  width = '50 px' height = '50 px' />
+  <img src= '/lesions/avian_icon.jpeg'  width = '50 px' height = '50 px' />
 );
 
 
